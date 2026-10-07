@@ -1,0 +1,11 @@
+# Direct runtime dependencies inferred from source imports.
+# Historical training-environment versions were not recorded in this project.
+# This list is not a validated lockfile; no dependency upgrade was performed.
+torch
+numpy
+datasets
+transformers
+scikit-learn
+Pillow
+tqdm
+matplotlib
